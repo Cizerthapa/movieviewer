@@ -1,10 +1,3 @@
-//
-//  movieviewerApp.swift
-//  movieviewer
-//
-//  Created by Cizer on 12/13/25.
-//
-
 import SwiftUI
 
 @main
