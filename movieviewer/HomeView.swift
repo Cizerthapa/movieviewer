@@ -19,7 +19,6 @@ struct HomeView: View {
             } placeholder: {
                 ProgressView()
             }}
-        
         HStack{
             Button{
                 
